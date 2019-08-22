@@ -5,7 +5,7 @@ A simple use case scenario could be a newsletter subscription.\
 \
 The GUI is minimal.
 
-> ***This project is old, I've written it a long time ago and I will not support it.***
+> ***This project is old, I've written it a long time ago and I will not support it.***\
 > _Sorry for bad code_
 
 ## Dependecies
